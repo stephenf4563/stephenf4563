@@ -1,9 +1,6 @@
 # Welcome to My Repository
 <img src="IMG_3368.jpg" width="350" >
 
-#### For a 20 Second Introduction click below
-<a href="https://youtu.be/-a0StL_Z6VY"> Intro Video </a>
-
 <!--
 **stephenf4563/stephenf4563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
