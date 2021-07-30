@@ -1,5 +1,5 @@
 # Welcome to My Repository
-<img src="Image_3368.jpg" width="350" >
+<img src="IMG_3368.jpg" width="350" >
 
 #### For a 20 Second Introduction click below
 <a href="https://youtu.be/-a0StL_Z6VY"> Intro Video </a>
