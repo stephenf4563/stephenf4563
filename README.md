@@ -1,4 +1,6 @@
 
+## Welcome to My Main repository
+#### Here you will find the .CSS file associated with my Bootstrap Download. I chose to go with a Carousel template, because it looked to organize the information for highlighting my projects in the way I was thinking. On the Html file you will see that I am linking a Youtube video with a 20 second introduction. and lastly I embedded a Picture to Add for context.
 
 <!--
 **stephenf4563/stephenf4563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
